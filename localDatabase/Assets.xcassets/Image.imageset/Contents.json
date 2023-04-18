@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "zindgi-cb-editing-new-hd-backgrounds-11667917428zgzvydh74r.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
